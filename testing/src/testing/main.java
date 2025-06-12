@@ -2,7 +2,7 @@ package testing;
 
 public class main {
 	public static void main(String[] args) {
-		System.err.println("testing 1");
+		System.out.println("testing 1");
 	}
 
 }
